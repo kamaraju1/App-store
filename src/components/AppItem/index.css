@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.eachButton {
+  border-width: 0px;
+  color: #7b8794;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+  background-color: transparent;
+}
+.line {
+  background-color: #dfe2e5;
+  padding: 1px;
+  border: 0px;
+  border-radius: 1px;
+}
+.changeTabColor {
+  border-width: 0px;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+  color: #2563eb;
+}
+.line-blue {
+  background-color: #2563eb;
+  padding: 1px;
+  border: 0px;
+  border-radius: 1px;
+}

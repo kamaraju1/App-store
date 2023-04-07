@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.each-app-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+.image {
+  height: 70px;
+  width: 70px;
+}
+.eachTabItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
